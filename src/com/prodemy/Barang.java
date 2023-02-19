@@ -67,5 +67,5 @@ public class Barang {
         ", stok : " + this.stock
         ;
 	}
-    
+       
 }
